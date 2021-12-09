@@ -68,3 +68,6 @@ How to reproduce the work of the paper (step by step):
     (1) Run the stochastic reactor julia-for_paper ipynb file which generates the time series data.
 
     (2) Run the PFSA neutron noise analysis files.
+
+
+Contact axr2@psu.edu to obatin MATLAB version of PFSA.
