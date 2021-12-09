@@ -18,6 +18,7 @@ PC used for this work:
 
 
 In this folder, the following files are included:
+
     - stochastic reactor julia-for_paper ipynb file (Written in JULIA script): 
         * it contains the model developed in this paper
         * it generates the figures of the model given in the paper
