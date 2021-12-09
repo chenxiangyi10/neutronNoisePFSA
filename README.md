@@ -12,7 +12,7 @@ PC used for this work:
     The MS windows system is also tested:
         * the PFSA written in python works with MS windows system
         * however, the parallel features does not work (you do not need to worry about this; it still runs, just slower)
-        * the memory needed for PFSA to run on windows system is significantly lower than ubuntu
+        * the memory needed for PFSA to run on windows system is significantly lower than ubuntu (good news)
         * the reason could be the parallel features cannot be applied?
 
 
